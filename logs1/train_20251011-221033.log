@@ -1,0 +1,32 @@
+2025-10-11 22:10:33 | INFO | Starting training at 20251011-221033
+2025-10-11 22:10:33 | INFO | Device: cuda
+2025-10-11 22:10:35 | INFO | \u2705 Resumed from epoch 23, best loss so far: 22.0815
+2025-10-11 22:32:17 | INFO | Epoch [24/50] | Avg Loss: 50.2009
+2025-10-11 22:52:45 | INFO | Epoch [25/50] | Avg Loss: 2782184420.4962
+2025-10-11 23:12:26 | INFO | Epoch [26/50] | Avg Loss: 82355.9105
+2025-10-11 23:32:14 | INFO | Epoch [27/50] | Avg Loss: 995.5815
+2025-10-11 23:51:37 | INFO | Epoch [28/50] | Avg Loss: 496.6526
+2025-10-12 00:10:45 | INFO | Epoch [29/50] | Avg Loss: 37.1583
+2025-10-12 00:29:49 | INFO | Epoch [30/50] | Avg Loss: 2261329.7264
+2025-10-12 00:48:33 | INFO | Epoch [31/50] | Avg Loss: 49.9021
+2025-10-12 01:07:11 | INFO | Epoch [32/50] | Avg Loss: 330934915.0497
+2025-10-12 01:25:56 | INFO | Epoch [33/50] | Avg Loss: 22654.0842
+2025-10-12 01:44:39 | INFO | Epoch [34/50] | Avg Loss: 558.1771
+2025-10-12 02:03:16 | INFO | Epoch [35/50] | Avg Loss: 135.7961
+2025-10-12 02:22:01 | INFO | Epoch [36/50] | Avg Loss: 226148729260.2603
+2025-10-12 02:40:37 | INFO | Epoch [37/50] | Avg Loss: 8040775.3182
+2025-10-12 02:59:27 | INFO | Epoch [38/50] | Avg Loss: 694695.5862
+2025-10-12 03:18:24 | INFO | Epoch [39/50] | Avg Loss: 185766.1920
+2025-10-12 03:37:21 | INFO | Epoch [40/50] | Avg Loss: 153390.7783
+2025-10-12 03:56:16 | INFO | Epoch [41/50] | Avg Loss: 304.2347
+2025-10-12 04:15:12 | INFO | Epoch [42/50] | Avg Loss: 32.9406
+2025-10-12 04:34:17 | INFO | Epoch [43/50] | Avg Loss: 283650960.1644
+2025-10-12 04:56:40 | INFO | Epoch [44/50] | Avg Loss: 2679.1135
+2025-10-12 05:15:31 | INFO | Epoch [45/50] | Avg Loss: 1109.1599
+2025-10-12 05:34:27 | INFO | Epoch [46/50] | Avg Loss: 3450.3487
+2025-10-12 05:53:16 | INFO | Epoch [47/50] | Avg Loss: 819.8977
+2025-10-12 06:12:00 | INFO | Epoch [48/50] | Avg Loss: 98.0351
+2025-10-12 06:30:42 | INFO | Epoch [49/50] | Avg Loss: 244.3602
+2025-10-12 06:41:52 | INFO | Starting training at 20251012-064152
+2025-10-12 06:41:52 | INFO | Device: cuda
+2025-10-12 06:41:55 | INFO | \u2705 Resumed from epoch 49, best loss so far: 22.0815

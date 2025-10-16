@@ -1,0 +1,10 @@
+2025-10-11 09:23:06 | INFO | Starting training at 20251011-092306
+2025-10-11 09:23:06 | INFO | Device: cuda
+2025-10-11 09:45:27 | INFO | Epoch [1/50] | Avg Loss: 27.4488
+2025-10-11 09:45:32 | INFO | \U0001f4be Saved Best Model at epoch 1 (Loss: 27.4488)
+2025-10-11 10:05:51 | INFO | Epoch [2/50] | Avg Loss: 301.7769
+2025-10-11 10:26:17 | INFO | Epoch [3/50] | Avg Loss: 22.0815
+2025-10-11 10:26:22 | INFO | \U0001f4be Saved Best Model at epoch 3 (Loss: 22.0815)
+2025-10-11 10:46:50 | INFO | Epoch [4/50] | Avg Loss: 23.3206
+2025-10-11 11:07:17 | INFO | Epoch [5/50] | Avg Loss: 2395340329946.9922
+2025-10-11 11:27:59 | INFO | Epoch [6/50] | Avg Loss: 3954908.5097

@@ -1,0 +1,6 @@
+2025-10-12 06:55:24 | INFO | Starting training at 20251012-065524
+2025-10-12 06:55:24 | INFO | Device: cuda
+2025-10-12 06:55:27 | INFO | \u2705 Resumed from epoch 49, best loss so far: 22.0815
+2025-10-12 07:16:59 | INFO | Epoch [50/150] | Avg Loss: 34.4159
+2025-10-12 07:36:54 | INFO | Epoch [51/150] | Avg Loss: 24.5669
+2025-10-12 07:56:47 | INFO | Epoch [52/150] | Avg Loss: 25.1708
