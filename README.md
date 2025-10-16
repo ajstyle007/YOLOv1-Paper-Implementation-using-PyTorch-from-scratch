@@ -3,6 +3,8 @@
 This project is a from-scratch implementation of the YOLOv1 (You Only Look Once) object detection paper using PyTorch.
 I implemented the entire pipeline — architecture, loss function, dataset parsing, and model training — to deeply understand how YOLO works at its core.
 
+[Live App Link](https://musk12-yolov1-detection.hf.space/)
+
 <img width="1459" height="769" alt="Screenshot 2025-10-16 161807" src="https://github.com/user-attachments/assets/a161d946-9989-41b7-9ec4-72829a0c0d79" />
 
 <img width="1366" height="733" alt="Screenshot 2025-10-16 162046" src="https://github.com/user-attachments/assets/65b55d9a-0d0d-45c0-b0b2-8eae39d6b8cc" />
@@ -46,7 +48,7 @@ It outputs a grid structure that predicts bounding boxes and class probabilities
 
 <img width="1395" height="701" alt="yolo_architechture" src="https://github.com/user-attachments/assets/ffe1ef21-ceb9-442a-bd34-9628a318b096" />
 
-## 🧪 Web App Demo
+## 🧪 Web App Demo: [click here](https://musk12-yolov1-detection.hf.space/) for live app
 
 The Flask web app allows users to upload images and view detection results instantly.
 Due to Hugging Face Spaces limitations, the live webcam detection feature is disabled — but you can find a recorded demo video of live detections on my LinkedIn.
