@@ -1,0 +1,24 @@
+2025-10-15 09:43:21 | INFO | Starting training at 20251015-094321
+2025-10-15 09:43:21 | INFO | Device: cuda
+2025-10-15 09:43:22 | INFO | \u2705 Resumed from epoch 49, best loss so far: 2.8442
+2025-10-15 09:56:35 | INFO | Epoch [50/200] | Avg Loss: 2.8309
+2025-10-15 09:56:37 | INFO | \U0001f4be Saved Best Model at epoch 50 (Loss: 2.8309)
+2025-10-15 10:08:04 | INFO | Epoch [51/200] | Avg Loss: 2.8415
+2025-10-15 10:19:19 | INFO | Epoch [52/200] | Avg Loss: 2.8355
+2025-10-15 10:30:55 | INFO | Epoch [53/200] | Avg Loss: 2.8205
+2025-10-15 10:30:56 | INFO | \U0001f4be Saved Best Model at epoch 53 (Loss: 2.8205)
+2025-10-15 10:42:47 | INFO | Epoch [54/200] | Avg Loss: 2.7972
+2025-10-15 10:42:49 | INFO | \U0001f4be Saved Best Model at epoch 54 (Loss: 2.7972)
+2025-10-15 10:54:53 | INFO | Epoch [55/200] | Avg Loss: 2.8061
+2025-10-15 11:08:16 | INFO | Epoch [56/200] | Avg Loss: 2.8129
+2025-10-15 11:20:58 | INFO | Epoch [57/200] | Avg Loss: 2.7829
+2025-10-15 11:21:00 | INFO | \U0001f4be Saved Best Model at epoch 57 (Loss: 2.7829)
+2025-10-15 11:33:08 | INFO | Epoch [58/200] | Avg Loss: 2.7842
+2025-10-15 11:45:04 | INFO | Epoch [59/200] | Avg Loss: 2.7830
+2025-10-15 11:57:27 | INFO | Epoch [60/200] | Avg Loss: 2.7950
+2025-10-15 12:09:44 | INFO | Epoch [61/200] | Avg Loss: 2.7760
+2025-10-15 12:09:46 | INFO | \U0001f4be Saved Best Model at epoch 61 (Loss: 2.7760)
+2025-10-15 12:22:39 | INFO | Epoch [62/200] | Avg Loss: 2.7655
+2025-10-15 12:22:41 | INFO | \U0001f4be Saved Best Model at epoch 62 (Loss: 2.7655)
+2025-10-15 13:43:56 | ERROR | No such comm target registered: jupyter.widget.control
+2025-10-15 13:43:56 | WARNING | No such comm: dbca6c06-efe4-4a40-8335-f0dc6f3bb2bb

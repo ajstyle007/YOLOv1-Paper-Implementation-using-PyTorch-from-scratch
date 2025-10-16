@@ -1,0 +1,115 @@
+2025-10-14 23:11:28 | INFO | Starting training at 20251014-231128
+2025-10-14 23:11:28 | INFO | Device: cuda
+2025-10-14 23:12:52 | INFO | Starting training at 20251014-231252
+2025-10-14 23:12:52 | INFO | Device: cuda
+2025-10-14 23:25:47 | INFO | Epoch [1/200] | Avg Loss: 42.7974
+2025-10-14 23:25:48 | INFO | \U0001f4be Saved Best Model at epoch 1 (Loss: 42.7974)
+2025-10-14 23:32:43 | INFO | Starting training at 20251014-233243
+2025-10-14 23:32:43 | INFO | Device: cuda
+2025-10-14 23:32:43 | INFO | \u2705 Resumed from epoch 1, best loss so far: inf
+2025-10-14 23:41:42 | INFO | Starting training at 20251014-234142
+2025-10-14 23:41:42 | INFO | Device: cuda
+2025-10-14 23:41:43 | INFO | \u2705 Resumed from epoch 1, best loss so far: inf
+2025-10-14 23:42:52 | INFO | Starting training at 20251014-234252
+2025-10-14 23:42:52 | INFO | Device: cuda
+2025-10-14 23:53:11 | INFO | Epoch [1/200] | Avg Loss: 42.7687
+2025-10-14 23:53:11 | INFO | \U0001f4be Saved Best Model at epoch 1 (Loss: 42.7687)
+2025-10-15 00:02:55 | INFO | Epoch [2/200] | Avg Loss: 30.0549
+2025-10-15 00:02:56 | INFO | \U0001f4be Saved Best Model at epoch 2 (Loss: 30.0549)
+2025-10-15 00:12:29 | INFO | Epoch [3/200] | Avg Loss: 25.2795
+2025-10-15 00:12:29 | INFO | \U0001f4be Saved Best Model at epoch 3 (Loss: 25.2795)
+2025-10-15 00:22:10 | INFO | Epoch [4/200] | Avg Loss: 20.3649
+2025-10-15 00:22:10 | INFO | \U0001f4be Saved Best Model at epoch 4 (Loss: 20.3649)
+2025-10-15 00:31:55 | INFO | Epoch [5/200] | Avg Loss: 16.3973
+2025-10-15 00:31:55 | INFO | \U0001f4be Saved Best Model at epoch 5 (Loss: 16.3973)
+2025-10-15 00:41:36 | INFO | Epoch [6/200] | Avg Loss: 13.7347
+2025-10-15 00:41:37 | INFO | \U0001f4be Saved Best Model at epoch 6 (Loss: 13.7347)
+2025-10-15 00:51:29 | INFO | Epoch [7/200] | Avg Loss: 11.6799
+2025-10-15 00:51:30 | INFO | \U0001f4be Saved Best Model at epoch 7 (Loss: 11.6799)
+2025-10-15 01:01:02 | INFO | Epoch [8/200] | Avg Loss: 10.3129
+2025-10-15 01:01:03 | INFO | \U0001f4be Saved Best Model at epoch 8 (Loss: 10.3129)
+2025-10-15 01:10:35 | INFO | Epoch [9/200] | Avg Loss: 9.4615
+2025-10-15 01:10:36 | INFO | \U0001f4be Saved Best Model at epoch 9 (Loss: 9.4615)
+2025-10-15 01:20:20 | INFO | Epoch [10/200] | Avg Loss: 8.7943
+2025-10-15 01:20:21 | INFO | \U0001f4be Saved Best Model at epoch 10 (Loss: 8.7943)
+2025-10-15 01:29:59 | INFO | Epoch [11/200] | Avg Loss: 7.9942
+2025-10-15 01:30:00 | INFO | \U0001f4be Saved Best Model at epoch 11 (Loss: 7.9942)
+2025-10-15 01:39:45 | INFO | Epoch [12/200] | Avg Loss: 7.7623
+2025-10-15 01:39:45 | INFO | \U0001f4be Saved Best Model at epoch 12 (Loss: 7.7623)
+2025-10-15 01:49:25 | INFO | Epoch [13/200] | Avg Loss: 7.1271
+2025-10-15 01:49:25 | INFO | \U0001f4be Saved Best Model at epoch 13 (Loss: 7.1271)
+2025-10-15 01:58:57 | INFO | Epoch [14/200] | Avg Loss: 6.8533
+2025-10-15 01:58:57 | INFO | \U0001f4be Saved Best Model at epoch 14 (Loss: 6.8533)
+2025-10-15 02:08:26 | INFO | Epoch [15/200] | Avg Loss: 6.5967
+2025-10-15 02:08:26 | INFO | \U0001f4be Saved Best Model at epoch 15 (Loss: 6.5967)
+2025-10-15 02:17:56 | INFO | Epoch [16/200] | Avg Loss: 6.3191
+2025-10-15 02:17:56 | INFO | \U0001f4be Saved Best Model at epoch 16 (Loss: 6.3191)
+2025-10-15 02:27:28 | INFO | Epoch [17/200] | Avg Loss: 6.0738
+2025-10-15 02:27:29 | INFO | \U0001f4be Saved Best Model at epoch 17 (Loss: 6.0738)
+2025-10-15 02:37:01 | INFO | Epoch [18/200] | Avg Loss: 5.8597
+2025-10-15 02:37:01 | INFO | \U0001f4be Saved Best Model at epoch 18 (Loss: 5.8597)
+2025-10-15 02:46:44 | INFO | Epoch [19/200] | Avg Loss: 5.7666
+2025-10-15 02:46:44 | INFO | \U0001f4be Saved Best Model at epoch 19 (Loss: 5.7666)
+2025-10-15 02:56:28 | INFO | Epoch [20/200] | Avg Loss: 5.5487
+2025-10-15 02:56:28 | INFO | \U0001f4be Saved Best Model at epoch 20 (Loss: 5.5487)
+2025-10-15 03:06:09 | INFO | Epoch [21/200] | Avg Loss: 4.8073
+2025-10-15 03:06:09 | INFO | \U0001f4be Saved Best Model at epoch 21 (Loss: 4.8073)
+2025-10-15 03:15:54 | INFO | Epoch [22/200] | Avg Loss: 4.2132
+2025-10-15 03:15:55 | INFO | \U0001f4be Saved Best Model at epoch 22 (Loss: 4.2132)
+2025-10-15 03:25:49 | INFO | Epoch [23/200] | Avg Loss: 3.9470
+2025-10-15 03:25:50 | INFO | \U0001f4be Saved Best Model at epoch 23 (Loss: 3.9470)
+2025-10-15 03:35:35 | INFO | Epoch [24/200] | Avg Loss: 3.7359
+2025-10-15 03:35:35 | INFO | \U0001f4be Saved Best Model at epoch 24 (Loss: 3.7359)
+2025-10-15 03:45:26 | INFO | Epoch [25/200] | Avg Loss: 3.5964
+2025-10-15 03:45:27 | INFO | \U0001f4be Saved Best Model at epoch 25 (Loss: 3.5964)
+2025-10-15 03:55:26 | INFO | Epoch [26/200] | Avg Loss: 3.4793
+2025-10-15 03:55:27 | INFO | \U0001f4be Saved Best Model at epoch 26 (Loss: 3.4793)
+2025-10-15 04:05:15 | INFO | Epoch [27/200] | Avg Loss: 3.4162
+2025-10-15 04:05:15 | INFO | \U0001f4be Saved Best Model at epoch 27 (Loss: 3.4162)
+2025-10-15 04:15:02 | INFO | Epoch [28/200] | Avg Loss: 3.3676
+2025-10-15 04:15:02 | INFO | \U0001f4be Saved Best Model at epoch 28 (Loss: 3.3676)
+2025-10-15 04:24:55 | INFO | Epoch [29/200] | Avg Loss: 3.3067
+2025-10-15 04:24:55 | INFO | \U0001f4be Saved Best Model at epoch 29 (Loss: 3.3067)
+2025-10-15 04:34:47 | INFO | Epoch [30/200] | Avg Loss: 3.2303
+2025-10-15 04:34:48 | INFO | \U0001f4be Saved Best Model at epoch 30 (Loss: 3.2303)
+2025-10-15 04:44:42 | INFO | Epoch [31/200] | Avg Loss: 3.2083
+2025-10-15 04:44:42 | INFO | \U0001f4be Saved Best Model at epoch 31 (Loss: 3.2083)
+2025-10-15 04:54:47 | INFO | Epoch [32/200] | Avg Loss: 3.1769
+2025-10-15 04:54:47 | INFO | \U0001f4be Saved Best Model at epoch 32 (Loss: 3.1769)
+2025-10-15 05:04:44 | INFO | Epoch [33/200] | Avg Loss: 3.1331
+2025-10-15 05:04:44 | INFO | \U0001f4be Saved Best Model at epoch 33 (Loss: 3.1331)
+2025-10-15 05:14:42 | INFO | Epoch [34/200] | Avg Loss: 3.1269
+2025-10-15 05:14:43 | INFO | \U0001f4be Saved Best Model at epoch 34 (Loss: 3.1269)
+2025-10-15 05:24:41 | INFO | Epoch [35/200] | Avg Loss: 3.0780
+2025-10-15 05:24:42 | INFO | \U0001f4be Saved Best Model at epoch 35 (Loss: 3.0780)
+2025-10-15 05:34:42 | INFO | Epoch [36/200] | Avg Loss: 3.0736
+2025-10-15 05:34:43 | INFO | \U0001f4be Saved Best Model at epoch 36 (Loss: 3.0736)
+2025-10-15 05:44:46 | INFO | Epoch [37/200] | Avg Loss: 3.0390
+2025-10-15 05:44:47 | INFO | \U0001f4be Saved Best Model at epoch 37 (Loss: 3.0390)
+2025-10-15 05:55:06 | INFO | Epoch [38/200] | Avg Loss: 3.0141
+2025-10-15 05:55:07 | INFO | \U0001f4be Saved Best Model at epoch 38 (Loss: 3.0141)
+2025-10-15 06:05:08 | INFO | Epoch [39/200] | Avg Loss: 3.0022
+2025-10-15 06:05:09 | INFO | \U0001f4be Saved Best Model at epoch 39 (Loss: 3.0022)
+2025-10-15 06:14:59 | INFO | Epoch [40/200] | Avg Loss: 2.9863
+2025-10-15 06:15:00 | INFO | \U0001f4be Saved Best Model at epoch 40 (Loss: 2.9863)
+2025-10-15 06:24:54 | INFO | Epoch [41/200] | Avg Loss: 2.9346
+2025-10-15 06:24:55 | INFO | \U0001f4be Saved Best Model at epoch 41 (Loss: 2.9346)
+2025-10-15 06:34:50 | INFO | Epoch [42/200] | Avg Loss: 2.9250
+2025-10-15 06:34:50 | INFO | \U0001f4be Saved Best Model at epoch 42 (Loss: 2.9250)
+2025-10-15 06:44:57 | INFO | Epoch [43/200] | Avg Loss: 2.8941
+2025-10-15 06:44:58 | INFO | \U0001f4be Saved Best Model at epoch 43 (Loss: 2.8941)
+2025-10-15 06:55:19 | INFO | Epoch [44/200] | Avg Loss: 2.8857
+2025-10-15 06:55:20 | INFO | \U0001f4be Saved Best Model at epoch 44 (Loss: 2.8857)
+2025-10-15 07:05:38 | INFO | Epoch [45/200] | Avg Loss: 2.8750
+2025-10-15 07:05:38 | INFO | \U0001f4be Saved Best Model at epoch 45 (Loss: 2.8750)
+2025-10-15 07:16:14 | INFO | Epoch [46/200] | Avg Loss: 2.8700
+2025-10-15 07:16:14 | INFO | \U0001f4be Saved Best Model at epoch 46 (Loss: 2.8700)
+2025-10-15 07:26:31 | INFO | Epoch [47/200] | Avg Loss: 2.8651
+2025-10-15 07:26:32 | INFO | \U0001f4be Saved Best Model at epoch 47 (Loss: 2.8651)
+2025-10-15 07:37:27 | INFO | Epoch [48/200] | Avg Loss: 2.8442
+2025-10-15 07:37:27 | INFO | \U0001f4be Saved Best Model at epoch 48 (Loss: 2.8442)
+2025-10-15 07:48:44 | INFO | Epoch [49/200] | Avg Loss: 2.8439
+2025-10-15 07:48:44 | INFO | \U0001f4be Saved Best Model at epoch 49 (Loss: 2.8439)
+2025-10-15 07:49:06 | INFO | Starting training at 20251015-074906
+2025-10-15 07:49:06 | INFO | Device: cuda
+2025-10-15 07:49:06 | INFO | \u2705 Resumed from epoch 49, best loss so far: 2.8442
